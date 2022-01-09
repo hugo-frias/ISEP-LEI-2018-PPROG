@@ -1,0 +1,2 @@
+1;Categoria relativa a serviços de saúde
+2;Categoria relativa a serviços de reparos
